@@ -6,7 +6,7 @@ var width = canvas.width;
 var height = canvas.height;
 
 
-setInterval("drawRectangle()",1000);
+setInterval("drawRectangle()",500);
 
 function drawRectangle() {
 context.beginPath();
